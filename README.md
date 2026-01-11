@@ -1,10 +1,7 @@
 # Budget App 📊💰
-
-**(Urdu)**: Yeh README file Budget App ke liye hai jo **Flutter** me banayi gayi hai aur **Provider**, **Riverpod**, **Firebase Authentication**, aur **Cloud Firestore** use karti hai. App user ki **income ke mutabiq budget calculate** karta hai aur expenses track karta hai.
-
 ---
 
-## 🚀 Features
+##  Features
 
 * 🔐 **Firebase Authentication** (Email/Password)
 * ☁️ **Cloud Firestore** for real-time data storage
