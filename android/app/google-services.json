@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "142189059677",
+    "firebase_url": "https://tiktok-78fc6-default-rtdb.firebaseio.com",
+    "project_id": "tiktok-78fc6",
+    "storage_bucket": "tiktok-78fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:e5ea8e9228b21f2f9577b4",
+        "android_client_info": {
+          "package_name": "com.codingliquids.flutter_architectures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:5a8d663ef2be2ea49577b4",
+        "android_client_info": {
+          "package_name": "com.example.budget_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:7eee92350e55889e9577b4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_blog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:3c18fdfc5ae069669577b4",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:6067c9fd8359fbf69577b4",
+        "android_client_info": {
+          "package_name": "com.firstproject.tiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142189059677:android:5b797f7f1a462d989577b4",
+        "android_client_info": {
+          "package_name": "com.tahir.blog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX8IoUwpYK7s7CGCZ4F3Hi8pIgpFGGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
