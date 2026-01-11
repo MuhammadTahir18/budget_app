@@ -102,35 +102,6 @@ users (collection)
 
 Riverpod app ko **clean**, **scalable**, aur **testable** banata hai.
 
----
-
-## ▶️ How to Run the Project
-
-1. Flutter install karein
-2. Project clone karein
-3. Firebase project create karein
-4. `google-services.json` add karein
-5. Commands run karein:
-
-```bash
-flutter pub get
-flutter run
-```
-
----
-
-## 📦 Dependencies Used
-
-```yaml
-firebase_core
-firebase_auth
-cloud_firestore
-provider
-hooks_riverpod
-```
-
----
-
 ## 🔮 Future Improvements
 
 * 📊 Monthly charts & analytics
